@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+  
+}
+h1{
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 10%;
+  color: rgb(81, 81, 77);
+}
+
+.inp{
+  width: 330px;
+  height: 30px;
+  background-color: rgba(246, 246, 61, 0.816);
+  border: none;
+  text-align: center;
+  margin-left: 10%;
+  margin-top: 20px;
+  color: rgb(74, 73, 73);
+  font-weight: bold;
+}
+
+.inp:hover{
+  box-shadow: 0 0 3px ;
+  
+}
+
+.btn1{
+  margin-left: 5px;
+  height: 32px;
+  width: 40px;
+  border: none;
+  background-color: rgb(243, 240, 240);
+}
+
+.list{
+  background-color: rgb(243, 240, 240);
+  margin-top: 20px;
+  margin-left: 10%;
+  width: 334px;
+  display: flex;
+  justify-content: space-between;
+  height: 30px;
+}
+
+.btn2{
+  margin-left: 5px;
+  font-weight: bolder;
+  width: 40px;
+  border: none;
+  background-color: rgb(208, 208, 208);
+
+}
+
+.btn2:hover{
+  background-color: rgb(249, 86, 86);
+}
+
+
